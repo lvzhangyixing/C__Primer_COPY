@@ -20,3 +20,5 @@ add_executable(directcall 14/directcall.cpp)
 add_executable(fcnobj 14/fcnobj.cpp)
 add_executable(newcount-size 14/newcount-size.cpp)
 add_executable(readStr 14/readStr.cpp)
+
+add_executable(and_orQueryTest 15/and_orQueryTest.cpp)
